@@ -53,7 +53,7 @@ function App() {
 
     /*  
         ****to use either or, just comment out the usestate below and the corresponding
-        "setSuggestions" on lines on 99 and 100.
+        "setSuggestions" on lines on 105 and 106.
     */
 
     //const [ suggestions, setSuggestions ] = useState(customMentions);
