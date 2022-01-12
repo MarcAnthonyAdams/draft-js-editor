@@ -1,0 +1,7 @@
+.hashtag {
+    color: #4a76fd;
+}
+
+.hashtag:hover {
+    text-decoration: underline;
+}
